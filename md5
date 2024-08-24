@@ -81,28 +81,20 @@ http://bgtv.xyz/play/play-777.php?ul=833&token=asdfasdf
 http://bgtv.xyz/play/play-777.php?ul=1584&token=asdfasdf 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/bbc.png" group-title="Lista 1", BBC Español 
 http://bgtv.xyz/play/play-777.php?ul=931&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsports.png" group-title="Lista 1", BeinSports 
-http://bgtv.xyz/play/play-777.php?ul=753&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsports.png" group-title="Lista 1", BeinSports Español 
-http://bgtv.xyz/play/play-777.php?ul=9&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsportsn.png" group-title="Lista 1", BeinSports \u00D1 
-http://bgtv.xyz/play/play-777.php?ul=761&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsportsn.png" group-title="Lista 1", BeinSports \u00D1 ᵸᴰ 
-http://bgtv.xyz/play/play-777.php?ul=376&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bitme.png" group-title="Lista 1", BitMe 
-http://bgtv.xyz/play/play-777.php?ul=946&token=asdfasdf 
+#EXTINF:-34 tvg-logo="http://x.playerlatino.live/beinsportsn.png" group-title="DEPORTES", BIEN Sports | ᵸᴰ 
+https://amg01334-beinsportsllc-beinxtra-tcl-pr3zb.amagi.tv/playlist/amg01334-beinsportsllc-beinxtra-tcl/playlist.m3u8 
+#EXTINF:-35 tvg-logo="http://x.playerlatino.live/beinsportsn.png" group-title="DEPORTES", BEIN SPORTS XTRA
+https://bein-esp-xumo.amagi.tv/playlist.m3u8  
 #EXTINF:-1 tvg-logo="" group-title="Lista 1", Bloomberg 
 http://bgtv.xyz/play/play-777.php?ul=518&token=asdfasdf 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/bolivision.png" group-title="Lista 1", Bolivisión 
 http://bgtv.xyz/play/play-777.php?ul=783&token=asdfasdf 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/breakingbad.png" group-title="Lista 1", Breaking Bad ²⁴⁺⁷ 
 http://bgtv.xyz/play/play-777.php?ul=846&token=asdfasdf
-#EXTINF:-10 tvg-logo="https://i.imgur.com/oukGx28.png" group-title="ECUADOR", Curiquingue TV EC
-https://video2.lhdserver.es/pjtv/live.m3u8 
 #EXTINF:-1 tvg-logo="" group-title="Lista 1", C5N 
 http://bgtv.xyz/play/play-777.php?ul=427&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caballeroszodiaco.png" group-title="Lista 1", Caballeros del Zodiaco ²⁴⁺⁷ Op. 2 
-http://bgtv.xyz/play/play-777.php?ul=1565&token=asdfasdf 
+#EXTINF:-45 tvg-logo="https://i.postimg.cc/Dfbwz6C8/CM-logo-box2-680x162.png" group-title="MUSICA", Canela Música
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548 
 #EXTINF:-1 tvg-logo="" group-title="Lista 1", Cable Noticias 
 http://bgtv. xyz/play/play-777.php?ul=1566&token=asdfasdf 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/canal5.png" group-title="Lista 1", Canal 5 
@@ -115,8 +107,8 @@ http://bgtv.xyz/play/play-777.php?ul=773&token=asdfasdf
 http://bgtv.xyz/play/play-777.php?ul=962&token=asdfasdf 
 #EXTINF:-1 tvg-logo="http://x. playerlatino.live/lasestrellas.png" group-title="Lista 1", Canal de las Estrellas 
 http://bgtv.xyz/play/play-777.php?ul=411&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png" group-title=" Lista 1", Canal de las 
-Estrellas http://bgtv.xyz/play/play-777.php?ul=736&token=asdfasdf 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png" group-title=" Lista 1", Canal de las Estrellas 
+http://bgtv.xyz/play/play-777.php?ul=736&token=asdfasdf 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas .png" group-title="Lista 1", Canal de las Estrellas ᵸᴰ 
 http://bgtv.xyz/play/play-777.php?ul=636&token=asdfasdf 
 #EXTINF:-1 tvg-logo="http: //x.playerlatino.live/canalonce.png" group-title="Lista 1", Canal Once 
@@ -127,7 +119,7 @@ http:// bgtv.xyz/play/play-777.php?ul=369&token=asdfasdf
 http://bgtv.xyz/ play/play-777.php?ul=808&token=asdfasdf 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cantinflas.png" group-title="Lista 1", Cantinflas ²⁴⁺⁷ 
 http://bgtv.xyz/play/play-777.php?ul=428&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caracol.png" group-title=" Lista 1", Caracol 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caracol.png" group-title=" COLOMBIA", Caracol 
 http://177.93.46.163:8000/play/a01n
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/caracol.png" group-title="Lista 1", Caracol 
 http://bgtv.xyz/play/play-777.php?ul=290&token=asdfasdf 
@@ -360,8 +352,8 @@ http://bgtv.xyz/play/play-777.php?ul=1581&token=asdfasdf
 http://bgtv.xyz/play/play-777.php?ul=239&token=asdfasdf 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/canaldelfutbol.png" group-title="Lista 1", El Canal Del Futbol 
 http:// bgtv.xyz/play/play-777.php?ul=892&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elchavoanimado.png" group-title="Lista 1", El Chavo Animado ²⁴⁺⁷ 
-http://bgtv.xyz/play/play-777.php?ul=790&token=asdfasdf 
+#EXTINF:-39 tvg-logo="https://apksos.com/storage/images/extrema/radiotv/extrema.radiotv_1.png" group-title="CINE Y SERIES", Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/elchavodel8.png" group-title="Lista 1", El Chavo del 8 ²⁴⁺⁷ 
 http://bgtv.xyz/play/play-777.php?ul=400&token=asdfasdf 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/elcondepatula.png "group-title="Lista 1", El Conde Patula ²⁴⁺⁷ 
@@ -376,7 +368,9 @@ http://bgtv.xyz/play/play-777.php?ul=157&token=asdfasdf
 http://bgtv.xyz/play/play-777.php?ul=791&token=asdfasdf 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="ECUADOR", ECUAVISA GYQUIL
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo =" https://cdn.m3u.cl/logo/1567_Ecuavisa.png "group-title="ECUADOR", Ecuavisa | CE 
+#EXTINF:-57 tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="ECUADOR", Ecuavisa QUITO
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1567_Ecuavisa.png"group-title="ECUADOR", Ecuavisa | CE 
 https://origin.dpsgo.com/ssai/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
 #EXTINF:-8 tvg-logo="https://lc.cx/81w4NA" group-title="ECUADOR", Ecuastereo 
 https://video.misistemareseller.com/ecuastereotv/ecuastereotv/playlist.m3u8
@@ -426,14 +420,16 @@ http://bgtv.xyz/play/play-777.php?ul=177&token=asdfasdf
 http://bgtv.xyz/play/play-777.php?ul=957&token=asdfasdf 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/fearthewalkingdead.png" group-title="Lista 1", Fear The Walking Dead ²⁴⁺⁷ 
 http://bgtv.xyz/play/play-777.php?ul=1558&token=asdfasdf 
-#EXTINF:-1 tvg-logo="" group-title="Lista 1", Fetv (Panamá) 
-http://bgtv.xyz/play/play-777.php?ul=149&token=asdfasdf 
+#EXTINF:-41 tvg-logo="https://n9.cl/gm3zj" group-title="PARAGUAY", ESTACIÓN CRISTAL TV
+https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/filmarts.png" group-title="Lista 1", Cine y Artes ᵸᴰ (EN) 
 http://bgtv.xyz/play/play-777.php?ul=729&token=asdfasdf 
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/FMTV-1.png" group-title="CINE Y SERIES", Frecuencia tv | FHD
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foodnetwork.png" group-title="Lista 1", FM Hot TV 
-http://bgtv.xyz/play/play-777.php?ul=961&token=asdfasdf 
+http://bgtv.xyz/play/play-777.php?ul=961&token=asdfasdf
+#EXTINF:-42 ttvg-logo="https://cdn.energeek.cl/logos/Fanpop-512.png" group-title="NIÑOS Y ADOLECENTES",Fanpop TV (720p) [Not 24/7]
+https://wifispeed.trapemn.tv:1936/energeek/canal-2p/chunks.m3u8 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foodnetwork.png" group-title="Lista 1", Food Network 
 http://bgtv.xyz/play/play-777.php?ul=192&token=asdfasdf 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/forotv.png" group-title="Lista 1", Foro TV 
@@ -522,9 +518,7 @@ http://bgtv.xyz/play/play-777.php?ul=58&token=asdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/golden.png" group-title="Lista 1", Golden ᵸᴰ 
 http://bgtv.xyz/play/play-777.php?ul=496&token=asdfasdf 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/golden.png" grupo-título="Lista 1", Golden Premier 2 
-http://bgtv.xyz/play/play-777.php?ul=964&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/greysanatomy.png" grupo-título="Lista 1", Anatomía de Grey ²⁴⁺⁷ 
-http://bgtv.xyz/play/play-777.php?ul=1549&token=asdfasdf 
+http://bgtv.xyz/play/play-777.php?ul=964&token=asdfasdf  
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" grupo-título="Lista 1", H2 
 http://bgtv.xyz/play/play-777.php?ul=61&token=asdfasdf 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" grupo-título="Lista 1", H2 
@@ -561,7 +555,8 @@ http://bgtv.xyz/play/play-777.php?ul=971&token=asdfasdf
 http://bgtv.xyz/play/play-777.php?ul=779&token=asdfasdf 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/heman.png" group-title="Lista 1", He-Man ²⁴⁺⁷ 
 http://bgtv.xyz/play/play-777.php?ul=996&token=asdfasdf 
-#EXTINF:-1 tvg-logo="" group-title="Lista 1", Headlinews http://bgtv.xyz/play/play-777.php?ul=1576&token=asdfasdf 
+#EXTINF:-1 tvg-logo="" group-title="Lista 1", Headlinews 
+http://bgtv.xyz/play/play-777.php?ul=1576&token=asdfasdf 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/heyarnold.png" group-title="Lista 1", Hey Arnold ²⁴⁺⁷ 
 http://bgtv.xyz/play/play-777.php?ul=522&token=asdfasdf 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="Lista 1", Historia (ES) 
@@ -668,19 +663,10 @@ http://bgtv.xyz/play/play-777.php?ul=895&token=asdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="Lista 1", Los Simpson ²⁴⁺⁷ 
 http://bgtv.xyz/play/play-777.php?ul=357&token=asdfasdf 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossupersonicos.png" group-title="Lista 1", Los Supersónicos ²⁴⁺⁷ 
-http://bgtv.xyz/play/play-777.php?ul=79 7&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/losvengadoresunidos.png" group-title="Lista 1", Los Vengadores Unidos ²⁴⁺⁷ 
-http://bgtv.xyz/play/play-777.php?ul=818&token=asdfasdf 
 #EXTINF:-1 tvg-logo="https://lc.cx/elfodD" group-title="ECUADOR", Magestad tv 
 https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/malcolm.png" group-title="Lista 1", Malcolm ᵸᴰ ²⁴⁺⁷ 
-http://bgtv.xyz/play/play-777.php?ul=798&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/maschic.png" group-title="Lista 1", M\u00E1s chic 
-http://bgtv.xyz/play/play-777.php?ul=180&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/maschic.png" group-title="Lista 1", M\u00E1s chic 
-http://bgtv.xyz/play/play-777.php?ul=730&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/maxsteel.png" group-title="Lista 1", Max Steel ²⁴⁺⁷ 
-http://bgtv.xyz/play/play-777.php?ul=880&token=asdfasdf 
+#EXTINF:-54 tvg-logo="https://images.mi.tv/blog/2017/01/19051138/mitv_logo_aboutus.jpg" group-title="PARAGUAY", MI TV
+https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Lista 1", Max Up ᵸᴰ 
 http://bgtv.xyz/play/play-777.php?ul=659&token=asdfasdf 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/mazingerz.png" group-title="Lista 1", Mazinger Z ²⁴⁺⁷ 
@@ -703,8 +689,8 @@ http://bgtv.xyz/play/play-777.php?ul=966&token=asdfasdf
 http://bgtv.xyz/play/play-777.php?ul=678&token=asdfasdf 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/maccion.png" group-title="Lista 1", Movistar Acción ᵸᴰ 
 http://bgtv.xyz/play/play-777.php?ul=364&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_comedia.png" group-title="Lista 1",Movistar Cine  
-http://bgtv.xyz/play/play-777.php?ul=371&token=asdfasdf 
+#EXTINF:-50 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3cd5a38936b50ea78212770473565ee6.webp" group-title="CINE Y SERIES",  Movie tv
+https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_comedia.png" grupo -title="Lista 1", Movistar Comedia 
 http://bgtv.xyz/play/play-777.php?ul=370&token=asdfasdf 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live /movistar_deportes2.png" group-title="Lista 1", Movistar Deportes 2 ᵸᴰ 
@@ -773,8 +759,8 @@ http://bgtv.xyz/play/play-777.php?ul=412&token=asdfasdf
 http://bgtv.xyz/play/play-777.php?ul=77&token=asdfasdf 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeowild.png" group-title="Lista 1", Nat Geo Wild ᵸᴰ 
 http://bgtv.xyz/play/play-777.php?ul=497&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nba.png" group-title="Lista 1", NBA 
-http://bgtv.xyz/play/play-777.php?ul=838&token=asdfasdf 
+#EXTINF:-49 tvg-logo="https://www.canalnet.tv/_templates/desktop/includes/img/logo.png" group-title="COSTA RICA",  NET TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/nbcgolf.png" group-title="Lista 1", NBC Golf Español: 
 http://bgtv.xyz/play/play-777.php?ul=947&token=asdfasdf 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/nbc.png" group-title="Lista 1", NBC Universo 
@@ -810,13 +796,15 @@ http://bgtv.xyz/play/play-777.php?ul=717&token=asdfasdf
 #EXTINF:-27 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/da77b40cc9acf3c1b8b5642838906de4.webp" group-title="NOVELAS" ,NOVELAS INOLVIDABLES
 https://ov.ottera.tv/channels/cnm_niv/master.m3u8 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/onepunchman.png" group-title="Lista 1", One Punch Man ²⁴⁺⁷ 
-http://bgtv.xyz/play/play-777.php?ul=661&token=asdfasdf 
+http://bgtv.xyz/play/play-777.php?ul=661&token=asdfasdf
+#EXTINF:-38 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3c619eb44474af2dc9df71538979c2f9.webp" group-title="PERU", ONDA DIGITAL
+https://v4.tustreaming.cl/odtvgo/index.m3u8 
 #EXTINF:-9 tvg-logo="https://i.postimg.cc/bYmVsWCk/NATURALEZA.png" group-title="DOCUMENTALES", PLUTO TV NATURALEZA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff16000-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d26f2f3a-e8be-493e-9e88-d9c8f6a4b80c&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/pac12.png" group-title="Lista 1", PAC12 ᵸᴰ 
 http://bgtv.xyz/play/play-777.php?ul=934&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/padredefamilia.png" group-title="Lista 1", Padre de Familia ²⁴⁺⁷ 
-http://bgtv.xyz/play/play-777.php?ul=416&token=asdfasdf 
+#EXTINF:-43 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/PAT_Logotype.png" group-title="BOLIVIA", Pat tv | HD
+https://solo.disfrutaenlared.com:1936/tutv/tutv/playlist.m3u8 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/pakapaka.png" group-title="Lista 1", PakaPaka 
 http://bgtv.xyz/play/play-777.php?ul=959&token=asdfasdf 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/paramount.png" group-title="Lista 1", Paramount 
@@ -827,14 +815,10 @@ http://bgtv.xyz/play/play-777.php?ul=647&token=asdfasdf
 http://bgtv.xyz/play/play-777.php?ul=970&token=asdfasdf 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/pasiones.png" group-title="Lista 1", Pasiones 
 http://bgtv.xyz/play/play-777.php?ul=755&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/patoaventuras.png" group-title="Lista 1", Patoaventuras ²⁴⁺⁷ 
-http://bgtv.xyz/play/play-777.php?ul=819&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/patrullacanina.png" group-title="Lista 1", Patrulla Canina ²⁴⁺⁷ 
-http://bgtv.xyz/play/play-777.php?ul=807&token=asdfasdf 
 #EXTINF:-23 tvg-logo="https://i.postimg.cc/L6ptNDNw/1709ea70babf9cb66fd4203443c31cce.jpg" group-title="CINE Y SERIES", Pelis | HD
 https://stmv2.voxtvhd.com.br/videokapc/videokapc/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/peppapig.png" group-title="Lista 1", Peppa Pig ²⁴⁺⁷ 
-http://bgtv.xyz/play/play-777.php?ul=787&token=asdfasdf 
+#EXTINF:-43 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/PAT_Logotype.png" group-title="BOLIVIA", Pat tv | HD
+https://solo.disfrutaenlared.com:1936/tutv/tutv/playlist.m3u8 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/america_peru.png" group-title="Lista 1", PERÚ: América TV 
 http://bgtv.xyz/play/play-777.php?ul=304&token=asdfasdf 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Lista 1", PERÚ: Antares TV 
@@ -852,19 +836,20 @@ http://bgtv.xyz/play/play-777.php?ul=306&token=asdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/pinkyycerebro.png" group-title="Lista 1", Pinky y Cerebro ²⁴⁺⁷ 
 http://bgtv.xyz/play/play-777.php?ul=721&token=asdfasdf 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/pocoyo.png" group-title="Lista 1", Pocoyó ²⁴⁺⁷ 
-http://bgtv.xyz/play/play-777.php?ul=799&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pokemon.png" group-title="Lista 1", Pokémon ²⁴⁺⁷ 
-http://bgtv.xyz/play/play-777.php?ul=420&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pokemon.png" group-title="Lista 1", Pokémon ²⁴⁺⁷ Op. 2 
-http://bgtv.xyz/play/play-777.php?ul=1564&token=asdfasdf 
+http://bgtv.xyz/play/play-777.php?ul=799&token=asdfasdf  
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/popcornflix.png" título del grupo="Lista 1", PopCornFlix ᵸᴰ 
-http://bgtv.xyz/play/play-777.php?ul=1536&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/prisonbreak.png" título del grupo="Lista 1", Prison Break ²⁴⁺⁷ 
-http://bgtv.xyz/play/play-777.php?ul=884&token=asdfasdf 
+http://bgtv.xyz/play/play-777.php?ul=1536&token=asdfasdf  
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/pxtv.png" título del grupo="Lista 1", PX TV 
 http://bgtv.xyz/play/play-777.php?ul=193&token=asdfasdf
-#EXTINF:-31 tvg-logo="https://i.postimg.cc/R0V0Vz8B/image.png" group-title="ECUADOR", PLANETA TV | HD
-https://live.obslivestream.com/planetatv/index.m3u8 
+#EXTINF:-1tvg-logo="https://i.postimg.cc/R0V0Vz8B/image.png" group-title="ECUADOR", PLANETA TV | HD
+https://live.obslivestream.com/planetatv/index.m3u8
+#EXTINF:-47 tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png" group-title="MUSICA" , PlanetaTV Music
+https://v4.tustreaming.cl/poptv/index.m3u8 
+#EXTINF:-1 tvg-logo="https://lc.cx/VRnIpE" group-title="NIÑOS Y ADOLECENTES", Planeta de Aventuras
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4311
+#EXTINF:-1  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b56260b68f3ebe6b1601e56567d46831.webp"group-title="VARIOS", Plomar TV
+https://vcp.myplaytv.com/promar/promar/chunklist_w631540690.m3u8
+
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/quieromusica.png" group-title="Lista 1", Quiero Musica 
 http://bgtv.xyz/play/play-777.php?ul=958&token=asdfasdf
 #EXTINF:-1 tvg-logo="https://is.gd/K2PLxu" group-title="CINE Y SERIES", Rakuten Drama | SD
@@ -920,10 +905,12 @@ http://bgtv.xyz/play/play-777.php?ul=751&token= asdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/space.png" group-title="Lista 1", Space ᵸᴰ 
 http://bgtv.xyz/play/play-777. php?ul=499&token=asdfasdf 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/spiderman.png" group-title="Lista 1", Spiderman ²⁴⁺⁷ 
-http://bgtv. xyz/jugar/jugar-777.php?ul=889&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star.png" group-title="Lista 1", Canal Estrella 
+http://bgtv. xyz/jugar/jugar-777.php?ul=889&token=asdfasdf
+#EXTINF:-51 tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/02/sonynovelas.jpg"group-title="NOVELAS" ,SONY Novelas HD
+https://stormcast-novelas-2-es.samsung.wurl.tv/3000.m3u8 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star.png" group-title="Lista 1", Star ⁺
 http://bgtv.xyz/play/play-777.php?ul=45&token= asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star.png" group-title="Lista 1", Canal Estrella 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star.png" group-title="Lista 1", Star ⁺ 
 http://bgtv.xyz/play/play-777. php?ul=489&token=asdfasdf 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_fun.png" group-title="Lista 1", Star Fun 
 http://bgtv.xyz/ jugar/jugar-777.php?ul=49&token=asdfasdf 
@@ -950,11 +937,7 @@ http://bgtv.xyz/play/play-777.php?ul=685&token=asdfasdf
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/studiouniversal.png" group-title="Lista 1", Studio Universal 
 http://bgtv.xyz/play/play-777.php?ul=84&token=asdfasdf 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/studiouniversal.png" group-title="Lista 1", Studio Universal 
-http://bgtv.xyz/play/play-777.php?ul=830&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/supercampeones.png" group-title="Lista 1", Super Campeones ²⁴⁺⁷ 
-http://bgtv.xyz/play/play-777.php?ul=432&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/supernatural.png" group-title="Lista 1", Supernatural ²⁴⁺⁷ 
-http://bgtv.xyz/play/play-777.php?ul=1563&token=asdfasdf 
+http://bgtv.xyz/play/play-777.php?ul=830&token=asdfasdf  
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/syfy.png" group-title="Lista 1", SyFy 
 http://bgtv.xyz/play/play-777.php?ul=151&token=asdfasdf 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/syfy.png" group-title="Lista 1", SyFy 
@@ -966,24 +949,26 @@ http://bgtv.xyz/play/play-777.php?ul=648&token=asdfasdf
 #EXTINF:-1 tvg-logo="https://www.tvc.com.ec/wp-content/uploads/2023/07/logo-150x150.png" group-title="ECUADOR", TVC EC | HD
 https://alba-ec-tvc-tvc.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleamazonas.png" group-title="ECUADOR", TeleAmazonas 
-http://bgtv.xyz/play/play-777.php?ul=320&token=asdfasdf
+https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/okK02EN.png" group-title="ECUADOR",TC Televisión |ECUADOR
 https://live-b.cf.dmcdn.net/sec2(Af9fvyprPa3EOpBEMZVKo9YL_HKnv11jLJYGX4GncHe7tBa1gh_lCFqeEoc6Ug-JSvDBKSZSTkyoFJnX_Nb4uz18kPVnPZLWA5ZQemahphk)/dm/3/x7wijay/d/live-480.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tbs.png" group-title="Lista 1",TBS Muy Divertido 
-http://bgtv.xyz/play/play-777.php?ul=171&token=asdfasdf 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LCiYFrh.jpg" group-title="PUERTO RICO", Telenorte tv | HD
+https://627bb251f23c7.streamlock.net:444/TopRadioTV/TopRadioTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lc.cx/C8BjHP" group-title="PARAGUAY", TVS
+https://vcp3.myplaytv.com/tvs/tvs/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ83sIpdN5xB6xRJQ9h21rV8371WrgKgzEB4Q&s"group-title="MEXICO" ,TVmas 
+https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w1158872820.m3u8 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tbs.png" group-title="Lista 1", TBS Muy Divertido ᵸᴰ 
 http://bgtv.xyz/play/play-777.php?ul=831&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tc.png" group-title="ECUADOR", TC Ecuador 
-http://bgtv.xyz/play/play-777.php?ul=885&token=asdfasdf 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tcm.png" group-title="Lista 1", TCM 
 http://bgtv.xyz/play/play-777.php?ul=85&token=asdfasdf 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tcm.png" título del grupo="Lista 1", TCM 
 http://bgtv.xyz/play/play-777.php?ul=882&token=asdfasdf
-#EXTINF:-12 tvg-logo="https://seeklogo.com/images/T/telesistema-canal-11-logo-AD1DE4DB73-seeklogo.com.png" group-title="ECUADOR", Telesistema  | SD
+#EXTINF:-12 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevijdEFdSAV5BB5hgQwvfa8AqDJPMCqL4jQ&s" group-title="ECUADOR", Telesistema  | SD
 https://k20.usastreams.com:8081/telesistema/index.m3u8
-#EXTINF:-13 tvg-logo="https://seeklogo.com/images/T/telesistema-canal-11-logo-AD1DE4DB73-seeklogo.com.png" group-title="ECUADOR", Telesistema  | SD
+#EXTINF:-13 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevijdEFdSAV5BB5hgQwvfa8AqDJPMCqL4jQ&s" group-title="ECUADOR", Telesistema  | SD
 http://45.228.234.167:8000/play/a03r/index.m3u8 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" título del grupo="Lista 1", Tele 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" título del grupo="Lista 1",Tele 
 http://bgtv.xyz/play/play-777.php?ul=778&token=asdfasdf 
 #EXTINF:-1 tvg-logo="" group-title="Lista 1", Teleantioquia (Colombia) 
 http://bgtv.xyz/play/play-777.php?ul=922&token=asdfasdf 
@@ -1019,11 +1004,13 @@ http://bgtv.xyz/play/play-777.php?ul=764&token=asdfasdf
 http://bgtv.xyz/play/play-777.php?ul=843&token=asdfasdf 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tiin.png" título del grupo="Lista 1", Tiin 
 http://bgtv.xyz/play/play-777.php?ul=93&token=asdfasdf 
+#EXTINF:-60 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Toon_Goggles_logo.png" group-title="NIÑOS Y ADOLECENTES", Toon Goggles | HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=514&avod=1&coppa=1&is_lat=1&dnt=1&td=6&us_privacy=1---&did=00000000-0000-0000-0000-000000000000&app_bundle=com.toongoggles.html5&app_store_url=http%3A%2F%2Fwww.toongoggles.com%2Fdevices&app_domain=toongoggles.com&app_name=toongoggles&custom_targeting=web&custom_4=internal&player_height=720&player_width=1280&content_channel=toongoggles&content_dist_name=internal&device_make=&device_model=&device_os=web&preferred_language=EN&consent=0&gdpr=0&custom_12=0&custom_15=es&custom_16=EN&custom_17=en&site_page=https%253A%252F%252Fwww.toongoggles.com%252Fapp&preroll_duration=30&preroll=1&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America&timestamp=1702592284&id=266202&ip=45.224.152.74&override_expiration=1500&sign=dNYylJhE%2Bo5IkPLB1HdvPE27Yx47nf1jtGp3UNeNeu4%3D
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlc.png" título del grupo="Lista 1", TLC 
 http://bgtv.xyz/play/play-777.php?ul=87&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlnovelas.png" título del grupo="Lista 1", Tlnovelas Español: 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlnovelas.png" título del grupo="MEXICO", Tlnovelas Español: 
 http://bgtv.xyz/play/play-777.php?ul=94&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlnovelas.png" group-title="Lista 1", Tlnovelas 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlnovelas.png" group-title="MEXICO", Tlnovelas 
 http://bgtv.xyz/play/play-777.php?ul=832&token=asdfasdf 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleritmo.png" group-title="Lista 1", TLR (Teleritmo) 
 http://bgtv.xyz/play/play-777.php?ul=299&token=asdfasdf 
@@ -1087,8 +1074,10 @@ http://bgtv.xyz/play/play-777.php?ul=675&token=asdfasdf
 http://bgtv.xyz/play/play-777.php?ul=274&token=asdfasdf 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tycsports.png" group-title="Lista 1", Tyc Sports Op. 2 
 http://bgtv.xyz/play/play-777.php?ul=1538&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ufc.png" group-title="Lista 1", UFC Network 
-http://bgtv.xyz/play/play-777.php?ul=97&token=asdfasdf 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvkG99fN/Unicanal-en-vivo-Online.png" group-title="PARAGUAY", Unicanal | SD
+https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1329164413438468102/nLHM4UM7_400x400.png" group-title="ECUADOR", UNITEL TV | HD
+https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/unicable.png" group-title="Lista 1", Unicable 
 http://bgtv.xyz/play/play-777.php?ul=98&token=asdfasdf 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/unicable.png" group-title="Lista 1", Unicable ᵸᴰ 
@@ -1163,4 +1152,5 @@ http://bgtv.xyz/play/play-777.php?ul=1567&token=asdfasdf
 http://bgtv.xyz/play/play-777.php?ul=664&token=asdfasdf
 #EXTINF:-29 tvg-logo="https://goo.su/ateBAm" group-title="ECUADOR", Zaracay TV | HD
 https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
+
 
