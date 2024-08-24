@@ -209,8 +209,8 @@ http://bgtv.xyz/play/play-777.php?ul=479&token=asdfasdf
 http://bgtv.xyz/play/play-777.php?ul=20&token=asdfasdf 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LEBQ8B5.png" group-title="CINE Y SERIES", Cinemax | HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154&amp;avod=1&amp;coppa=0&amp;is_lat=0&amp;dnt=0&amp;us_privacy=1YN-&amp;did=e4ce72c53dd087e8c9bcf30074bacd21&amp;app_bundle=com.ammo.runtime&amp;app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&amp;app_domain=runtime.tv&amp;app_name=runtime&amp;custom_targeting=web&amp;custom_4=internal&amp;h=720&amp;w=1280&amp;content_channel=runtime&amp;content_dist_name=internal&amp;device_make=&amp;device_model=&amp;preferred_language=EN&amp;consent=1&amp;gdpr=0&amp;custom_12=0&amp;custom_15=es&amp;custom_16=EN&amp;custom_17=en&amp;site_page=https%253A%252F%252Fwww.runtime.tv%252F&amp;gender=not_specified&amp;yob=0&amp;livestream=1&amp;custom_param_0=&amp;custom_param_1=desktop&amp;custom_param_2=&amp;custom_param_3=&amp;custom_param_4=internal&amp;custom_param_5=web&amp;custom_param_6=South%2520America&amp;timestamp=1676561741&amp;id=2964&amp;ip=45.224.152.74&amp;override_expiration=1500&amp;sign=kEJu1%2Bg4igYcXJGirWitAeu2PDryiqCaws%2BdjxoACnQ%3D 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Lista 1", Cinemax ᵸᴰ 
-http://bgtv.xyz/play/play-777.php?ul=638&token=asdfasdf 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="CINE Y SERIES", Cinemax ᵸᴰ 
+http://190.61.55.186:1010/play/a022/index.m3u8 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Lista 1", Cinemax ᵸᴰ 
 http://bgtv.xyz/play/play-777.php?ul=328&token=asdfasdf 
 #EXTINF:-17 tvg-logo="https://n9.cl/mxitv" group-title="RELIGIÓN", Cristo tv | SD
@@ -387,24 +387,28 @@ http://bgtv.xyz/play/play-777.php?ul=1578&token=asdfasdf
 http://bgtv.xyz/play/play-777.php?ul=1588&token=asdfasdf 
 #EXTINF:-1 tvg-logo="" group-title="Lista 1", Encuentro 
 http://bgtv.xyz/play/play-777.php?ul=34&token=asdfasdf
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn4.png" group-title="Lista 1", ESPN ᵸᴰ 
-http://bgtv.xyz/play/play-777.php?ul=530&token=asdfasdf  
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="Lista 1", ESPN 2 
-http://bgtv.xyz/play/play-777.php?ul=35&token=as dfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="Lista 1", ESPN 2 Mx 
-http://bgtv.xyz/play/play-777.php?ul=484&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="Lista 1", ESPN 2 Mx 
-http://bgtv.xyz/play/play-777.php?ul=531&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="Lista 1", ESPN 2 Mx Español: 
-http://bgtv.xyz/play/play-777.php?ul=485&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn3.png" group-title="Lista 1", ESPN 3 ᵸᴰ 
-http://bgtv.xyz/play/play-777.php?ul=486&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn4.png" group-title="Lista 1", ESPN MX Español 
-http://bgtv.xyz/play/play-777.php?ul=37&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnplus.png" group-title="Lista 1", ESPN Plus 
-http://bgtv.xyz/play/play-777.php?ul=487&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnpremium.png" group-title="Lista 1", ESPN Premium 
-http://bgtv.xyz/play/play-777.php?ul=952&token=asdfasdf 
+#EXTINF:-1  tvg-logo="http://x.playerlatino.live/espn4.png"group-title="DEPORTES",ESPN  
+http://190.60.38.114:1010/play/a096/index.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn4.png" group-title="DEPORTES", ESPN ᵸᴰ 
+http://181.78.105.146:2000/play/a064/index.m3u8  
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="DEPORTES", ESPN 2 
+http://181.78.105.146:2000/play/a063/index.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="DEPORTES", ESPN 2 Mx 
+http://190.60.38.114:1010/play/a02f/index.m3u8   
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn3.png" group-title="DEPORTES", ESPN 3 ᵸᴰ 
+http://181.78.105.146:2000/play/a03n/index.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn3.png" group-title="DEPORTES", ESPN 3 ᵸᴰ
+http://190.60.38.114:1010/play/a040/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/V6vP2fhJ/2560px-ESPN-4-logo-svg.png" group-title="DEPORTES", ESPN 4
+http://190.60.38.114:1010/play/a07s/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPR6qqqq/2560px-ESPN-5-logo-svg.png" group-title="DEPORTES", ESPN 5 
+http://190.60.38.114:1010/play/a02n/index.m3u8
+#EXTINF:-1 tvg-logo="https://fiber.nl/wp-content/uploads/tvicon-ESPN-6-International.png" group-title="DEPORTES", ESPN 6
+http://190.60.38.114:1010/play/a024/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SxL4Mt8x/2560px-ESPN-7-logo-svg.png" group-title="DEPORTES",ESPN 7
+http://190.60.38.114:1010/play/a02o/index.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnpremium.png" group-title="DEPORTES", ESPN Premium 
+http://190.60.38.114:1010/play/a07i/index.m3u8 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/estrellatv.png" group-title="Lista 1", Estrella TV 
 http://bgtv.xyz/play/play-777.php?ul=177&token=asdfasdf 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/europa.png" group-title="Lista 1", Europa Europa 
@@ -1078,18 +1082,18 @@ http://bgtv.xyz/play/play-777.php?ul=144&token=asdfasdf
 http://bgtv.xyz/play/play-777.php?ul=137&token=asdfasdf 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal.png" group-title="Lista 1", Universal 
 http://bgtv.xyz/play/play-777.php?ul=902&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_comedy.png" group-title="Lista 1", Comedia Universal 
-http://bgtv.xyz/play/play-777.php?ul=903&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_crime.png" group-title="Lista 1", Universal Crime Este 
-http://bgtv.xyz/play/play-777.php?ul=904&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_crime.png" group-title="Lista 1", Universal Crime Oeste 
-http://bgtv.xyz/play/play-777.php?ul=502&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_premier.png" group-title="Lista 1", Universal Premier Este 
-http://bgtv.xyz/play/play-777.php?ul=901&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_reality.png" group-title="Lista 1", Realidad Universal 
-http://bgtv.xyz/play/play-777.php?ul=905&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_reality.png" group-title="Lista 1", Universal Reallity 
-http://bgtv.xyz/play/play-777.php?ul=99&token=asdfasdf 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_comedy.png" group-title="CINE Y SERIES", Comedia Universal 
+http://45.228.234.167:8000/play/a03l/index.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_crime.png" group-title="CINE Y SERIES", Universal Crime Este 
+http://181.78.27.128:8000/play/a01j/index.m3u8 
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_cinema-mediano.png" group-title="CINE Y SERIES", Universal CINEMA 
+http://181.78.27.128:8000/play/a02f/index.m3u8 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_premier.png" group-title="CINE Y SERIES", Universal Premier Este 
+http://181.78.27.128:8000/play/a01j/index.m3u8 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_reality.png" group-title="CINE Y SERIES", Realidad Universal 
+http://181.78.27.128:8000/play/a02c/index.m3u8 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_reality.png" group-title="CINE Y SERIES", Universal Reallity 
+http://45.228.234.167:8000/play/a03j/index.m3u8 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/univisiondeportes.png" group-title="Lista 1", Univisi\u00F3n Deportes 
 http://bgtv.xyz/play/play-777.php?ul=373&token=asdfasdf 
 #EXTINF:-1 tvg-logo="" group-title="Lista 1", Univision In 
@@ -1128,14 +1132,8 @@ http://bgtv.xyz/play/play-777.php?ul=759&token=asdfasdf
 http://bgtv.xyz/play/play-777.php?ul=503&token=asdfasdf 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png" group-title="PERU", 1 | Willax Televisión
 https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsports.png" group-title="Lista 1", Win Sports 
-http://bgtv.xyz/play/play-777.php?ul=292&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsportsplus.png" group-title="Lista 1", Win Sports + 
-http://bgtv.xyz/play/play-777.php?ul=881&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsportsplus.png" group-title="Lista 1", Win Sports + ᵸᴰ 
-http://bgtv.xyz/play/play-777.php?ul=802&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsports.png" group-title="Lista 1", Win Sports ᵸᴰ 
-http://bgtv.xyz/play/play-777.php?ul=754&token=asdfasdf 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsports.png" group-title="DEPORTES", Win Sports ᵸᴰ
+http://190.60.38.114:1010/play/a02g/index.m3u8 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/wwe.png" group-title="Lista 1", WWE Network 
 http://bgtv.xyz/play/play-777.php?ul=276&token=asdfasdf 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/247.png" group-title="Lista 1", Yogui ²⁴⁺⁷ 
@@ -1144,5 +1142,107 @@ http://bgtv.xyz/play/play-777.php?ul=1567&token=asdfasdf
 http://bgtv.xyz/play/play-777.php?ul=664&token=asdfasdf
 #EXTINF:-29 tvg-logo="https://goo.su/ateBAm" group-title="ECUADOR", Zaracay TV | HD
 https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
+
+#EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://webcam.lgbt/wp-content/uploads/2023/03/image-97.png",POV PORNO
+https://cdn.adultiptv.net/pov.m3u8
+
+#EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://www.logotypes101.com/logos/902/628B6656F15FF18373495599DF11E7F3/Pornstar.png",PORNSTAR
+https://cdn.adultiptv.net/pornstar.m3u8
+
+#EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://lc.cx/VkiN5Q",BLOWJOB
+https://cdn.adultiptv.net/blowjob.m3u8
+
+#EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://i.postimg.cc/DZJr5wgT/800px-Dorcel-TV-svg.png",DORCEL TV
+https://s.oxax.tv/iHwGQL8xm58T1dvN9dbRhA/20/1723880057/index.m3u8
+
+#EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://i.postimg.cc/SRcWF131/private3963-logowik-com.webp",PRIVATE
+https://s.oxax.tv/rbCt7bzkEVdddducyPR5EQ/49/1723880240/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", FAP TV 2
+https://s.oxax.tv/zYFCYBlmRGzu5E4Ktc2hDg/22/1723879592/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0P81HRD/image.jpg" group-title="ZONA 18 XX",Penthouse gold HD 
+https://s.oxax.tv/hHQzDZsWaIow0EBbSM4F7g/29/1723880191/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", XXPLUS 
+https://s.oxax.tv/1SckDMoGrqCmkuYsQBaDbQ/3/1723879485/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", LiveCams 
+http://cdn.adultiptv.net/livecams.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Milf 
+http://cdn.adultiptv.net/milf.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", BigDick 
+http://cdn.adultiptv.net/bigdick.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Fetish 
+http://cdn.adultiptv.net/fetish.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", BigTits 
+http://cdn.adultiptv.net/bigtits.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Pornstar 
+http://cdn.adultiptv.net/pornstar.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", BigAss 
+http://cdn.adultiptv.net/bigass.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Interracial 
+http://cdn.adultiptv.net/interracial.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Latina 
+http://cdn.adultiptv.net/latina.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", POV 
+http://cdn.adultiptv.net/pov.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Blowjob 
+http://cdn.adultiptv.net/blowjob.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Teen 
+http://cdn.adultiptv.net/teen.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Hardcore 
+http://cdn.adultiptv.net/hardcore.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Cuckold 
+http://cdn.adultiptv.net/cuckold.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Threesome 
+http://cdn.adultiptv.net/threesome.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Russian 
+http://cdn.adultiptv.net/russian.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Lesbian 
+http://cdn.adultiptv.net/lesbian.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Rought 
+http://cdn.adultiptv.net/rough.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Gangbang 
+http://cdn.adultiptv.net/gangbang.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Anal
+http://cdn.adultiptv.net/anal.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Compilation 
+http://cdn.adultiptv.net/compilation.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Brunette 
+http://cdn.adultiptv.net/brunette.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Blonde 
+http://cdn.adultiptv.net/blonde.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Playboy HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.pngaaa.com/30/3839030-middle.png" group-title="ZONA 18 XX", VENUS
+http://201.159.113.219:49000/play/a02p/index.m3u8
+
+#EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/868-540x304-FFFFFF.jpg",MIAMI TV XX
+https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:WEB3131/playlist.m3u8
 
 
