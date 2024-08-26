@@ -487,28 +487,22 @@ http://bgtv.xyz/play/play-777.php?ul=514&token=asdfasdf
 http://190.60.38.114:1010/play/a04d/index.m3u8
 #EXTINF:-169 tvg-logo="https://i.postimg.cc/13DhNxTj/znddkhgxhbqp.jpg" group-title="ECUADOR", Hechos tv
 https://stmv.streamingvip.click/hechosecuador/hechosecuador/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="Lista 1", H2 
-http://bgtv.xyz/play/play-777.php?ul=61&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="Lista 1", H2 
-http://bgtv.xyz/play/play-777.php?ul=760&token=asdfasdf 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="Lista 1", HBO 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="CINE Y SERIES", HBO 
 http://177.53.153.20:8001/play/a03b/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="Lista 1", HBO 2 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="CINE Y SERIES", HBO 2 
 http://177.53.153.20:8001/play/a0dn/index.m3u8 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="Lista 1", HBO 2 ᵸᴰ 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="CINE Y SERIES", HBO 2 ᵸᴰ 
 http://177.53.153.20:8001/play/a0dn/index.m3u8 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbofamily.png" group-title="Lista 1", HBO Family 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbofamily.png" group-title="CINE Y SERIES", HBO Family 
 http://177.53.153.20:8001/play/a04g/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbomundi.png" group-title="Lista 1", HBO Mundi 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbomundi.png" group-title="CINE Y SERIES", HBO Mundi 
 http://38.56.118.88:4000/play/a06p/index.m3u8 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="Lista 1", HBO Plus 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="CINE Y SERIES", HBO Plus 
 http://38.56.118.88:4000/play/a06p/index.m3u8 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbopop.png" group-title="Lista 1", HBO Pop 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbopop.png" group-title="CINE Y SERIES", HBO Pop 
 http://38.41.8.1:8000/play/a00d
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboxtreme.png" group-title="Lista 1", HBO Xtreme 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboxtreme.png" group-title="CINE Y SERIES", HBO Xtreme 
 http://177.53.153.20:8001/play/a0dc/index.m3u8 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/heyarnold.png" group-title="Lista 1", Hey Arnold ²⁴⁺⁷ 
-http://bgtv.xyz/play/play-777.php?ul=522&token=asdfasdf 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hittv.png" group-title="MUSICA", Hit TV 360
 https://cdn.essastream.com:3023/live/hits360tvlive.m3u8 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hola.png" group-title="Lista 1", Hola TV 
